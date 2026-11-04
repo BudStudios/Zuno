@@ -1,0 +1,130 @@
+# Zuno Restricted Modification License (ZRML) v1.0
+
+Copyright © 2026 Zuno. All rights reserved.
+
+## 1. Definitions
+
+For the purposes of this license:
+
+- **Software:** Refers to the Zuno Browser source code, binaries, assets, documentation, and associated components.
+- **Original Software:** The official Zuno Browser project and its original source code.
+- **Derivative Work:** Any modified, adapted, forked, or otherwise derived version of the Software.
+- **Licensee:** Any individual or organization accessing, downloading, modifying, or distributing the Software.
+
+## 2. Grant of Permissions
+
+Subject to the terms and restrictions of this license, the copyright holder grants the Licensee a limited, non-exclusive, worldwide, royalty-free, revocable license to:
+
+1. Access and view the Software's source code.
+2. Fork and clone the Software.
+3. Modify, adapt, and customize the Software.
+4. Create independent browser applications and derivative projects based on the Software.
+5. Compile and distribute modified versions of the Software.
+6. Use modified versions for personal, educational, and commercial purposes.
+7. Publish modifications and maintain independent forks.
+
+These permissions apply only while the Licensee complies with all provisions of this license.
+
+## 3. Attribution Requirements
+
+Any distributed derivative work must:
+
+1. Retain applicable copyright notices.
+2. Include a copy of this license.
+3. Acknowledge Zuno as the original project.
+4. Clearly identify substantial modifications.
+5. Avoid falsely representing the derivative work as an official Zuno release.
+
+The Licensee is not required to use the Zuno name, branding, or official visual identity for derivative projects.
+
+## 4. Security Research and Vulnerability Restrictions
+
+The Software is provided for development, customization, and legitimate use.
+
+The Licensee is expressly prohibited from using the permissions granted under this license to conduct unauthorized security assessments of the Software.
+
+Without prior written authorization from Zuno, the Licensee must not:
+
+1. Conduct deliberate vulnerability discovery campaigns against the Software.
+2. Perform unauthorized penetration testing or security assessments.
+3. Develop, test, or distribute exploits targeting vulnerabilities in the Software.
+4. Attempt to bypass, defeat, or circumvent security mechanisms for vulnerability research.
+5. Conduct automated vulnerability scanning or fuzzing campaigns against the Software.
+6. Use discovered vulnerabilities to compromise systems, access unauthorized information, or disrupt services.
+7. Publicly disclose exploitable security vulnerabilities in the Original Software without first following Zuno's responsible disclosure process.
+
+### 4.1 Responsible Disclosure
+
+Nothing in this license is intended to prevent a Licensee from reporting a suspected security issue to Zuno.
+
+Licensees who accidentally discover a potential vulnerability are encouraged to:
+
+- Avoid exploiting or weaponizing the issue.
+- Avoid accessing or modifying other people's data.
+- Report the issue privately to Zuno.
+- Provide sufficient information for Zuno to investigate and address the issue.
+
+Zuno may establish a separate security research authorization program granting additional permissions.
+
+### 4.2 Independent Derivative Projects
+
+The Licensee may modify and maintain their own derivative projects.
+
+However, permission to modify the Software does not automatically grant permission to conduct security assessments against Zuno-operated infrastructure, services, websites, update servers, or other systems operated by Zuno.
+
+## 5. Restrictions on Branding and Representation
+
+This license does not grant permission to:
+
+1. Use Zuno's trademarks, logos, or official branding without authorization.
+2. Represent an unofficial fork as an official Zuno release.
+3. Imply endorsement, partnership, or affiliation with Zuno without written permission.
+
+## 6. Distribution
+
+Licensees may distribute derivative works provided that:
+
+1. They comply with this license.
+2. They preserve required copyright and attribution notices.
+3. They include this license with the distributed Software.
+4. They do not misrepresent their derivative work as an official release.
+
+Additional terms may be applied to independent components, provided that they do not override the requirements of this license.
+
+## 7. Termination
+
+The permissions granted under this license automatically terminate if the Licensee materially violates its terms.
+
+Upon termination, the Licensee must cease activities relying on the terminated permissions and comply with applicable legal obligations.
+
+The copyright holder may reinstate permissions at its discretion through written authorization.
+
+## 8. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES, OR OTHER LIABILITIES ARISING FROM THE USE, MODIFICATION, DISTRIBUTION, OR INABILITY TO USE THE SOFTWARE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+## 9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be responsible for damages arising from derivative works, unauthorized modifications, or third-party distribution of the Software.
+
+## 10. Governing Law
+
+This license shall be governed by the laws of **[Jurisdiction]**, subject to applicable mandatory laws and regulations.
+
+## 11. Entire Agreement
+
+This license constitutes the agreement governing access to, modification of, and distribution of the Software.
+
+Any additional permissions or exceptions must be granted in writing by the copyright holder.
+
+---
+
+**Zuno Restricted Modification License (ZRML) v1.0**
+
+Copyright © 2026 Zuno. All rights reserved.
+
+Official project: [YOUR ZUNO REPOSITORY URL]
+
+Security contact: [YOUR SECURITY CONTACT EMAIL]
