@@ -8,6 +8,8 @@ interface in **React + TypeScript**.
 
 ## Quick start
 
+### First, install the zip
+
 ```powershell
 npm install
 npm run tauri dev      # development (hot reload for the interface, auto-rebuild for Rust)
