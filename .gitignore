@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+dist/
+
+# Rust build artifacts
+target/
+src-tauri/target/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
