@@ -1,5 +1,5 @@
 
-name: Deploy Zuno Website
+name: Deploy Zuno Website (slowed + reverb)
 
 on:
   push:
