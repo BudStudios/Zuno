@@ -8,7 +8,13 @@ interface in **React + TypeScript**.
 
 ## Quick start
 
-### First, install the zip
+### (Short way)
+Go to the website, and download the installer
+
+### (Long way)
+
+### First, install the zip and extract it
+Then, open up a CMD/Powershell and run these-
 
 ```powershell
 npm install
